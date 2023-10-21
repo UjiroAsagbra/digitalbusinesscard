@@ -2,7 +2,7 @@ import Interest from './Interests'
 import About from './About'
 import Info from './Info'
 import Buttons from './Buttons'
-import Photo from './photo'
+import Photo from './Photo'
 import Footer from './Footer'
 import "./style.css"
 
